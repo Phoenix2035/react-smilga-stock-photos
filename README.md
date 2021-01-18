@@ -1,1 +1,1 @@
-do you want see my todo app? click <a href="https://react-smilga-stock-photos.vercel.app/">Me</a>
+do you want to see my app? click <a href="https://react-smilga-stock-photos.vercel.app/">Me</a>
